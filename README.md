@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Navneet</h1>
-<h3 align="center">A passionate Android Developer studying in National Institute of Technology Silchar</h3>
+<h3 align="center">An Android developer with a passion for creating intuitive and user-friendly mobile applications.</h3>
+<div>
+  <h2>About Me</h2>
+  <p>I am Navneet, an Android developer with a passion for creating intuitive and user-friendly mobile applications. I have been developing Android applications and I am always striving to learn new things and improve my skills. My goal is to create applications that not only look great but are also highly functional and enjoyable to use.</p>
+</div>
 
 <p align="left"> <a href="https://twitter.com/navneet9773" target="blank"><img src="https://img.shields.io/twitter/follow/navneet9773?logo=twitter&style=for-the-badge" alt="navneet9773" /></a> </p>
 
-- 🔭 I’m currently working on [Sellr](https://github.com/gdsc-nits-org/Sellr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
