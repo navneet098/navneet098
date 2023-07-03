@@ -13,7 +13,6 @@
 <a href="https://twitter.com/navneet9773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navneet9773" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/navneet-raj-08a720228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navneet-raj-08a720228/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100080411300265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100080411300265" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/navneetrajkarn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/navneetrajkarn/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
