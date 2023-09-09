@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navneet</h1>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=43cbaa&size=40&width=750&height=80&lines=Hello+there!+I'm+Navneet."/></h2>
 <h3 align="center">An Android developer with a passion for creating intuitive and user-friendly mobile applications.</h3>
 <div>
   <h2>About Me</h2>
